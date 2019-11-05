@@ -1,0 +1,70 @@
+#rectangleVert {
+  position: absolute;
+  background: #2dcc70;
+  height: 10%;
+  width: 80%;
+  left: 0%;
+}
+#rectangleBleu {
+  position: absolute;
+  background: #297fb8;
+  height: 10%;
+  width: 20%;
+  right: 0%;
+}
+#rectangleRouge {
+  position: absolute;
+  background: #e84c3d;
+  height: 30%;
+  width: 40%;
+  left: 0%;
+  top: 11%;
+}
+#pampmousse {
+  position: absolute;
+  background: #eb7f22;
+  height: 15%;
+  width: 30%;
+  left: 40%;
+  top: 11%;
+}
+#grisBleu {
+  position: absolute;
+  background: #95a5a5;
+  height: 15%;
+  width: 30%;
+  right: 0%;
+  top: 11%;
+}
+#jauneOrange {
+  position: absolute;
+  background: #f39c11;
+  height: 15%;
+  width: 20%;
+  left: 40%;
+  top: 26%;
+}
+#bleuVert {
+  position: absolute;
+  background: #16a086;
+  height: 15%;
+  width: 20%;
+  left: 60%;
+  top: 26%;
+}
+#sanguine {
+  position: absolute;
+  background: #d25400;
+  height: 15%;
+  width: 20%;
+  right: 0%;
+  top: 26%;
+}
+#derniercarre {
+  position: absolute;
+  background: #2d3e50;
+  height: 40%;
+  width: 100%;
+  left: 0%;
+  top: 40%;
+}
