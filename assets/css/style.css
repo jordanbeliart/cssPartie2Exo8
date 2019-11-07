@@ -1,18 +1,18 @@
-#rectangleVert {
+#solidGreen {
   position: absolute;
   background: #2dcc70;
   height: 10%;
   width: 80%;
   left: 0%;
 }
-#rectangleBleu {
+#solidBlue {
   position: absolute;
   background: #297fb8;
   height: 10%;
   width: 20%;
   right: 0%;
 }
-#rectangleRouge {
+#solidRed {
   position: absolute;
   background: #e84c3d;
   height: 30%;
@@ -20,7 +20,7 @@
   left: 0%;
   top: 11%;
 }
-#pampmousse {
+#grapefruit {
   position: absolute;
   background: #eb7f22;
   height: 15%;
@@ -28,7 +28,7 @@
   left: 40%;
   top: 11%;
 }
-#grisBleu {
+#greyBlue {
   position: absolute;
   background: #95a5a5;
   height: 15%;
@@ -36,7 +36,7 @@
   right: 0%;
   top: 11%;
 }
-#jauneOrange {
+#yellowOrange {
   position: absolute;
   background: #f39c11;
   height: 15%;
@@ -44,7 +44,7 @@
   left: 40%;
   top: 26%;
 }
-#bleuVert {
+#blueGreen {
   position: absolute;
   background: #16a086;
   height: 15%;
@@ -60,7 +60,7 @@
   right: 0%;
   top: 26%;
 }
-#derniercarre {
+#bigSolid {
   position: absolute;
   background: #2d3e50;
   height: 40%;
